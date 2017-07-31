@@ -1,0 +1,2 @@
+# BecomePresidentOfGuild
+一个模拟魔兽世界会长运营公会的游戏
